@@ -2,7 +2,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Field Nation
+- 🔭 I’m currently working on Upwork as a Freelance Software Engineer
+- ⚡ I have 8+ years of working experience at Field Nation as a Sr. Software Engineer
 - 🌱 I’m currently learning AWS
 - 👯 I’m looking to collaborate on ReactJs and NestJs based projects
 - 🤔 I’m looking for help with finding remote positions
