@@ -35,9 +35,5 @@
     <img src="https://raw.githubusercontent.com/imtiazUAP/imtiazUAP/main/svg/languages/sass.svg" alt="sass" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/imtiazUAP/imtiazUAP/main/svg/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/imtiazUAP/imtiazUAP/main/svg/languages/css3.svg" alt="css3" style="vertical-align:top; margin:4px"> 
-    <img src="https://raw.githubusercontent.com/imtiazUAP/imtiazUAP/main/svg/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
-    <img src="https://raw.githubusercontent.com/imtiazUAP/imtiazUAP/main/svg/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px">
-    <img src="https://raw.githubusercontent.com/imtiazUAP/imtiazUAP/main/svg/services/digitalocean.svg" alt="digitalocean" style="vertical-align:top; margin:4px">
-    <img src="https://raw.githubusercontent.com/imtiazUAP/imtiazUAP/main/svg/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/imtiazUAP/imtiazUAP/main/svg/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
