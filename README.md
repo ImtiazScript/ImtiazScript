@@ -25,6 +25,7 @@
     <img src="https://raw.githubusercontent.com/imtiazUAP/imtiazUAP/main/svg/frameworks/nodejs_larger.svg" alt="nodejs_larger" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/imtiazUAP/imtiazUAP/main/svg/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/imtiazUAP/imtiazUAP/main/svg/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/imtiazUAP/imtiazUAP/main/svg/languages/nextjs.svg" alt="nextjs" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/imtiazUAP/imtiazUAP/main/svg/languages/php.svg" alt="php" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/imtiazUAP/imtiazUAP/main/svg/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/imtiazUAP/imtiazUAP/main/svg/services/kubernetes.svg" alt="kubernetes" style="vertical-align:top; margin:4px">
