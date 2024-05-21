@@ -4,14 +4,13 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/imtiaz_ahmad)
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Imtiaz Ahmed | 💻 Full Stack Developer | 🛸 Bangladesh <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3>💻 Full Stack Web Developer | 🛸 Bangladesh</h3>
 </div>
 
 Here are some ideas to get you started:
 
-- 💻 I'm a Full Stack Web Developer
-- 🔭 currently working on: Upwork as a Freelance Software Engineer
 - ⚡ 8+ years of working experience at Field Nation as a Sr. Software Engineer
+- 🔭 currently working on: Upwork as a Freelance Software Engineer
 - 🎓 Completed my graduate and post graduate studies in Computer Science and Engineering
 - 👯 I’m looking to collaborate on ReactJs and NestJs based projects
 - 🌱 I’m currently exploring AWS Technologies
