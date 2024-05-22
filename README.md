@@ -40,7 +40,9 @@
     <img src="https://raw.githubusercontent.com/imtiazUAP/imtiazUAP/main/svg/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imtiazuap&show_icons=true&locale=en&layout=compact" alt="imtiazuap" /></p>
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imtiazuap&show_icons=true&locale=en&layout=compact" alt="imtiazuap" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
