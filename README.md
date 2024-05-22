@@ -37,11 +37,10 @@
     <img src="https://raw.githubusercontent.com/imtiazUAP/imtiazUAP/main/svg/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
 
-<p align="center">
+<p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imtiazuap&show_icons=true&theme=radical" alt="imtiazuap" />
-    <img  align="right" src="https://github-readme-stats.vercel.app/api?username=imtiazuap&show_icons=true&theme=radical"/>
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=imtiazuap&show_icons=true&theme=radical" alt="imtiazuap" />
 </p>
-<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
