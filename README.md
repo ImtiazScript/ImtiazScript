@@ -38,7 +38,7 @@
 </p>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imtiazuap&show_icons=true&locale=en&layout=compact" alt="imtiazuap" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imtiazuap&show_icons=true&theme=radical" alt="imtiazuap" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
