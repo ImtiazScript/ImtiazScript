@@ -1,7 +1,7 @@
-## Hey there 👋, I'm [Imtiaz!](https://imtiaz.cloud)
+## Hey there 👋 I'm [Imtiaz!](https://imtiaz.cloud)
 
 <div align="center">
-<h3>💻 Full Stack Web Developer | 🛸 Bangladesh</h3>
+<h3>💻 A Full Stack Web Developer From Bangladesh</h3>
 </div>
 
 ###  Some ideas to get you started:
@@ -33,12 +33,13 @@
     <img src="https://raw.githubusercontent.com/imtiazUAP/imtiazUAP/main/svg/frameworks/jquery.svg" alt="jquery" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/imtiazUAP/imtiazUAP/main/svg/languages/sass.svg" alt="sass" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/imtiazUAP/imtiazUAP/main/svg/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
-    <img src="https://raw.githubusercontent.com/imtiazUAP/imtiazUAP/main/svg/languages/css3.svg" alt="css3" style="vertical-align:top; margin:4px"> 
+    <img src="https://raw.githubusercontent.com/imtiazUAP/imtiazUAP/main/svg/languages/css3.svg" alt="css3" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/imtiazUAP/imtiazUAP/main/svg/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imtiazuap&show_icons=true&theme=radical" alt="imtiazuap" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imtiazuap&show_icons=true&theme=radical" alt="imtiazuap" />
+    <img  align="right" src="https://github-readme-stats.vercel.app/api?username=imtiazuap&show_icons=true&theme=radical"/>
 </p>
 
 <h3 align="left">Connect with me:</h3>
