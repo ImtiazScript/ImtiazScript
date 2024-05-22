@@ -1,7 +1,4 @@
-## Hey there 👋, I'm [Imtiaz!](https://imtiaz.cloud/)
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/imtiaz-bd)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/imtiaz_ahmad)
+## Hey there 👋, I'm [Imtiaz!](https://imtiaz.cloud)
 
 <div align="center">
 <h3>💻 Full Stack Web Developer | 🛸 Bangladesh</h3>
