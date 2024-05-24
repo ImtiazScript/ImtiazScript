@@ -39,10 +39,10 @@
 
 <!--  -->
 
-<!-- <p align="center">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imtiazuap&show_icons=true&theme=radical" alt="imtiazuap" />
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=imtiazuap&show_icons=true&theme=radical" alt="imtiazuap" />
-</p> -->
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imtiazuap&show_icons=true&theme=radical" alt="imtiazuap" />
+    <img src="https://github-readme-stats.vercel.app/api?username=imtiazuap&show_icons=true&theme=radical" alt="imtiazuap" />
+</p>
 
 <p align="center" >
 <a href="https://github.com/imtiazuap/github-readme-stats"> 
