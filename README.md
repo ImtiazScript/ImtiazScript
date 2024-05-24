@@ -49,6 +49,17 @@
     <img src="https://github-readme-stats.vercel.app/api?username=imtiazuap&show_icons=true&theme=dark" alt="imtiazuap" style="width: 48%;">
 </div>
 
+<table>
+  <tr>
+    <td align="left" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imtiazuap&show_icons=true&theme=dark&layout=donut" alt="imtiazuap" />
+    </td>
+    <td align="right" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=imtiazuap&show_icons=true&theme=dark" alt="imtiazuap" />
+    </td>
+  </tr>
+</table>
+
 
 <br />
 
