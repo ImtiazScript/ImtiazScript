@@ -50,7 +50,6 @@
 
 ### Connect with me:
 <p align="left" style="margin-left:40px;">
-<a href="https://twitter.com/iliton" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iliton" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/imtiaz-bd" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imtiaz-bd" height="30" width="40" /></a>
 <a href="https://fb.com/iliton" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iliton" height="30" width="40" /></a>
 <a href="https://instagram.com/imtiaz_ahmad" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imtiaz_ahmad" height="30" width="40" /></a>
