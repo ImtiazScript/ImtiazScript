@@ -1,7 +1,7 @@
 ## Hey there 👋 I'm [Imtiaz!](https://imtiaz.cloud)
 
 <div align="center">
-<h3>💻 A Full Stack Web Developer From Bangladesh</h3>
+<h3>💻 A Full Stack Web Developer From Bangladesh</h3> :bangladesh:
 </div>
 
 ---
