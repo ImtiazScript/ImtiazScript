@@ -48,8 +48,6 @@
   </tr>
 </table>
 
-<br />
-
 ### Connect with me:
 <p align="left" style="margin-left:40px;">
 <a href="https://twitter.com/iliton" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iliton" height="30" width="40" /></a>
