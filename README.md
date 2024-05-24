@@ -1,7 +1,7 @@
 ## Hey there 👋 I'm [Imtiaz!](https://imtiaz.cloud)
 
 <div align="center">
-<h3>💻 A Full Stack Web Developer From Bangladesh <img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Flag_of_Bangladesh.svg" alt="Bangladesh Flag" height="16"></h3>
+<h3>💻 Full Stack Web Developer From Bangladesh <img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Flag_of_Bangladesh.svg" alt="Bangladesh Flag" height="16"></h3>
 </div>
 
 ---
