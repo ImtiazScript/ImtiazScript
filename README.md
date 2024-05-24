@@ -40,8 +40,8 @@
 <!--  -->
 
 <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imtiazuap&show_icons=true&theme=compact" alt="imtiazuap" />
-    <img src="https://github-readme-stats.vercel.app/api?username=imtiazuap&show_icons=true&theme=radical" alt="imtiazuap" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imtiazuap&show_icons=true&theme=dark" alt="imtiazuap" />
+    <img src="https://github-readme-stats.vercel.app/api?username=imtiazuap&show_icons=true&theme=dark" alt="imtiazuap" />
 </p>
 <!--  -->
 
