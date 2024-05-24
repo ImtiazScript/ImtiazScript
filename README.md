@@ -7,7 +7,6 @@
 ---
 
 ###  Some ideas to get you started:
-
 - ⚡ 8+ years of working experience at Field Nation as a Sr. Software Engineer
 - 🔭 currently working on: Upwork as a Freelance Software Engineer
 - 🎓 Completed my graduate and post graduate studies in Computer Science and Engineering
@@ -18,7 +17,6 @@
 - 👾 Fun fact: Equal is Not Always Equal in JS.
 
 ### Languages and Tools:
-
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
     <img src="https://raw.githubusercontent.com/imtiazUAP/imtiazUAP/main/svg/frameworks/nodejs_larger.svg" alt="nodejs_larger" style="vertical-align:top; margin:4px">
@@ -53,7 +51,7 @@
 <br />
 
 ### Connect with me:
-<p align="left" style="padding-left:40px;">
+<p align="left" style="margin-left:40px;">
 <a href="https://twitter.com/iliton" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iliton" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/imtiaz-bd" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imtiaz-bd" height="30" width="40" /></a>
 <a href="https://fb.com/iliton" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iliton" height="30" width="40" /></a>
