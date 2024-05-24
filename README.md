@@ -37,6 +37,8 @@
     <img src="https://raw.githubusercontent.com/imtiazUAP/imtiazUAP/main/svg/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
 
+<!--  -->
+
 <p align="center">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imtiazuap&show_icons=true&theme=radical" alt="imtiazuap" />
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=imtiazuap&show_icons=true&theme=radical" alt="imtiazuap" />
@@ -44,9 +46,7 @@
 
 <br />
 
-----
-
-<h3 align="left">Connect with me:</h3>
+### - Connect with me:
 <p align="center">
 <a href="https://twitter.com/iliton" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iliton" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/imtiaz-bd" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imtiaz-bd" height="30" width="40" /></a>
