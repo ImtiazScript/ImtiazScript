@@ -40,7 +40,7 @@
 <!--  -->
 
 <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imtiazuap&show_icons=true&theme=dark&layout=compact" alt="imtiazuap" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imtiazuap&show_icons=true&theme=dark&layout=donut" alt="imtiazuap" />
     <img src="https://github-readme-stats.vercel.app/api?username=imtiazuap&show_icons=true&theme=dark" alt="imtiazuap" />
 </p>
 <!--  -->
