@@ -46,19 +46,12 @@
     <img src="https://github-readme-stats.vercel.app/api?username=imtiazuap&show_icons=true&theme=radical" alt="imtiazuap" />
 </p>
 
-<p align="center" >
-<a href="https://github.com/imtiazuap/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=imtiazuap&&show_icons=true&theme=radical"/>
-  </a>
-
-</p>
-
 <br />
 
  <p align="center">
   <h4>Connect with me:</h4>
 </p>
-<p align="center">
+<p align="left">
 <a href="https://twitter.com/iliton" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iliton" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/imtiaz-bd" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imtiaz-bd" height="30" width="40" /></a>
 <a href="https://fb.com/iliton" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iliton" height="30" width="40" /></a>
