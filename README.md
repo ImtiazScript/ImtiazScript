@@ -8,12 +8,12 @@
 
 ###  Some ideas to get you started:
 - ⚡ 8+ years of working experience at Field Nation as a Sr. Software Engineer
-- 🔭 currently working on: Upwork as a Freelance Software Engineer
+- 🔭 Currently working on: Upwork as a Freelance Software Engineer
 - 🎓 Completed my graduate and post graduate studies in Computer Science and Engineering
 - 👯 I’m looking to collaborate on ReactJs and NestJs based projects
 - 🌱 I’m currently exploring AWS Technologies
 - 📫 Reach me out: emtiaj2011@gmail.com
-- 💻 My portfolios: https://imtiaz.cloud
+- 💻 My portfolios: https://www.imtiaz.cloud
 - 👾 Fun fact: Equal is Not Always Equal in JS.
 
 ### Languages and Tools:
