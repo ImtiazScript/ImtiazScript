@@ -40,10 +40,10 @@
 <table style="border: none; width: 100%;">
   <tr>
     <td style="border: none; width: 50%; text-align: left;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imtiazuap&show_icons=true&theme=transparent&layout=donut" alt="imtiazuap" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Imtiazscript&show_icons=true&theme=transparent&layout=donut" alt="Imtiazscript" />
     </td>
     <td style="border: none; width: 50%; text-align: right;">
-      <img src="https://github-readme-stats.vercel.app/api?username=imtiazuap&show_icons=true&theme=transparent&hide=rank" alt="imtiazuap" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Imtiazscript&show_icons=true&theme=transparent&hide=rank" alt="ImtiazScript" />
     </td>
   </tr>
 </table>
