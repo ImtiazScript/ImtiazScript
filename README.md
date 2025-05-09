@@ -7,8 +7,8 @@
 ---
 
 ###  Some ideas to get you started:
-- ⚡ 8+ years of working experience at Field Nation as a Sr. Software Engineer
-- 🔭 Currently working on: Upwork as a Freelance Software Engineer
+- ⚡ 9+ years of working experience at Field Nation as a Sr. Software Engineer
+- 🔭 Currently working on: NEUROCARE.AI as a Senior Software Engineer
 - 🎓 Completed my graduate and post graduate studies in Computer Science and Engineering
 - 👯 I’m looking to collaborate on ReactJs and NestJs based projects
 - 🌱 I’m currently exploring AWS Technologies
